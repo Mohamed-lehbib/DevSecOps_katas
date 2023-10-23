@@ -7,7 +7,7 @@
 - write a docker-compose.yml file using the custom built image
 - (Optional) disable directory listing which is enable by default, hints : you will need a volume to provide your own `httpd.conf` file, or you can override it during the image build step.
 
-# Resultion
+# Solution
 
 1. clone ur repository.
 2. i have create the Dockerfile and i pull the httpd official image from the docker hub and i wrote the content of the Dockerfile.

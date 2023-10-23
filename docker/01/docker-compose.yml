@@ -1,0 +1,6 @@
+version: '3'
+services:
+  custom-apache:
+    image: mohamedlehbib/custom-apache
+    ports:
+      - "80:80"
